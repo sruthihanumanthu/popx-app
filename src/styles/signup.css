@@ -1,0 +1,15 @@
+.signup-content {
+  padding: 10px 0;
+}
+
+.signup-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 24px;
+}
+
+.signup-form {
+  display: flex;
+  flex-direction: column;
+}
